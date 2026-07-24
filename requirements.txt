@@ -1,0 +1,21 @@
+# Core ML stack
+tensorflow
+numpy
+pandas
+scikit-learn
+
+# Backend API
+flask
+flask-cors
+google-generativeai
+python-dotenv
+
+# Visualization
+matplotlib
+seaborn
+
+# Image preprocessing
+opencv-python
+
+# Utilities
+tqdm

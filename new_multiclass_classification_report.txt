@@ -1,0 +1,56 @@
+                                                    precision    recall  f1-score   support
+
+                                  Cherry___Healthy     1.0000    0.9922    0.9961       129
+                           Cherry___Powdery_mildew     1.0000    0.9937    0.9968       158
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot     0.7907    0.8831    0.8344        77
+                        Corn_(maize)___Common_rust     1.0000    0.9944    0.9972       179
+               Corn_(maize)___Northern_Leaf_Blight     0.9214    0.8716    0.8958       148
+                            Corn_(maize)___healthy     1.0000    1.0000    1.0000       175
+                                 Grape___Black_Rot     1.0000    1.0000    1.0000        75
+                                      Grape___ESCA     0.9868    1.0000    0.9934        75
+                                   Grape___Healthy     0.9740    1.0000    0.9868        75
+                               Grape___Leaf_Blight     1.0000    0.9867    0.9933        75
+                                   Guava___Healthy     1.0000    1.0000    1.0000       198
+                                  Guava___Multiple     1.0000    1.0000    1.0000       231
+                                  Guava___Red_rust     1.0000    1.0000    1.0000       187
+                                    Guava___Scorch     1.0000    1.0000    1.0000       291
+                                 Guava___Yellowing     1.0000    1.0000    1.0000       439
+                               Guava___insect_bite     1.0000    1.0000    1.0000       264
+                                  Litchi___Anthrax     1.0000    1.0000    1.0000       150
+                               Litchi___Bituminous     1.0000    1.0000    1.0000       150
+                                   Litchi___Blight     1.0000    0.9867    0.9933       150
+                                     Litchi___Curl     1.0000    1.0000    1.0000       150
+                               Litchi___Deficiency     1.0000    1.0000    1.0000       150
+                                      Litchi___Dry     1.0000    1.0000    1.0000       150
+                                     Litchi___Felt     0.9868    1.0000    0.9934       150
+                              Litchi___Fungal_Spot     1.0000    0.9800    0.9899       150
+                                     Litchi___Gall     0.9868    0.9933    0.9900       150
+                                  Litchi___Healthy     0.9804    1.0000    0.9901       150
+                               Mango___Anthracnose     1.0000    1.0000    1.0000        23
+                          Mango___Bacterial_Canker     1.0000    1.0000    1.0000        71
+                            Mango___Cutting_Weevil     1.0000    1.0000    1.0000        67
+                                  Mango___Die_Back     1.0000    1.0000    1.0000        14
+                                Mango___Gall_Midge     1.0000    1.0000    1.0000        52
+                                   Mango___Healthy     1.0000    1.0000    1.0000        69
+                            Mango___Powdery_Mildew     1.0000    1.0000    1.0000        56
+                               Mango___Sooty_Mould     1.0000    1.0000    1.0000        69
+                            Peach___Bacterial_spot     0.9913    0.9884    0.9898       345
+                                   Peach___healthy     0.9153    1.0000    0.9558        54
+                     Pepper__bell___Bacterial_spot     1.0000    0.9867    0.9933       150
+                            Pepper__bell___healthy     0.9911    1.0000    0.9955       222
+                          Strawberry___Leaf_scorch     0.9940    1.0000    0.9970       167
+                              Strawberry___healthy     1.0000    0.9855    0.9927        69
+                           Tomato___Bacterial_spot     0.9903    0.9561    0.9729       319
+                             Tomato___Early_blight     0.9542    0.8333    0.8897       150
+                              Tomato___Late_blight     0.9586    0.9929    0.9754       280
+                                Tomato___Leaf_Mold     0.9722    0.9790    0.9756       143
+                       Tomato___Septoria_leaf_spot     0.9848    0.9737    0.9792       266
+     Tomato___Spider_mites_Two_spotted_spider_mite     0.9228    0.9960    0.9580       252
+                              Tomato___Target_Spot     0.9227    0.9052    0.9139       211
+                   Tomato___YellowLeaf__Curl_Virus     1.0000    0.9774    0.9886       354
+                                  Tomato___healthy     0.9673    0.9958    0.9814       238
+                             Tomato___mosaic_virus     0.9655    1.0000    0.9825        56
+
+                                          accuracy                         0.9842      7973
+                                         macro avg     0.9831    0.9850    0.9838      7973
+                                      weighted avg     0.9845    0.9842    0.9842      7973
